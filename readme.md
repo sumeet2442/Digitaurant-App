@@ -32,3 +32,9 @@ Tech Stack:-
 
 Screenshots:-
 ----------------------
+
+<img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/splash.gif" width="250" alt="Splash Screen"/>    <img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/pager3.jpg" width="250" alt="Intro 3"/>    <img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/choice.jpg" width="250" alt="Choice"/> 
+<img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/user%20num.jpg" width="250" alt="User Reg"/>  <img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/scan.jpg" width="250" alt="QR page"/>  <img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/menu1.jpg" width="250" alt="Menu 1"/>  
+<img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/menu4.jpg" width="250" alt="Menu 2"/>  <img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/order%20confirmed.jpg" width="250" alt="Order confirm"/>    <img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/payment.jpg" width="250" alt="Payment"/>
+<img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/staff_reg.png" width="250" alt="Staff Reg"/>  <img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/staff%20profile.png" width="250" alt="Staff Profile"/>    <img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/availability2.png" width="250" alt="Item availability"/>
+<img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/ordered%20items.png" width="250" alt="Ordered Items"/>    <img src="https://github.com/sumeet2442/Digitaurant-App/blob/main/Screenshots/orders.jpg" width="250" alt="Orders"/>
