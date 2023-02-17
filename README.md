@@ -25,12 +25,12 @@ Staff's Feature
     5. Keeping track of emplyoees of the Restaurant.
  
  
-Teck Stack
+Tech Stack
 ---------------------
 
-Frontend: Kotlin, XML
+**Frontend:** Kotlin, XML
 
-Backend: Firebase
+**Backend:** Firebase
 
 
 Screenshots
@@ -47,5 +47,5 @@ Note
 
 - This project is proudly accomplished by [shubham](https://github.com/noobshubham) and [sumeet](https://github.com/sumeet2442) under the guidance of [Zaid Kamil](https://github.com/zaid-kamil).
 - Link to APK File is [Digitaurant App](https://github.com/sumeet2442/Digitaurant-App/releases/download/v1.0/Digitaurant.apk)
-- :x:THIS IS NOT THE ACTUAL REPOSITORY OF THE APP! ITS JUST TO SHOWCASE THE APP'S FUNCTIONALITES:x:.
+- :x:THIS IS NOT THE ACTUAL REPOSITORY OF THE APP! IT IS JUST TO SHOWCASE THE APP'S FUNCTIONALITES:x:.
 - Feel free to contact [sumeet](https://github.com/sumeet2442) or [shubham](https://github.com/noobshubham) if you have any query regarding the App:smile:.
